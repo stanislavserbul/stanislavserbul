@@ -40,7 +40,9 @@ Looking forward to receiving your concern and requirement!
 
 ### 📫 Let’s Connect  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/stanislav-serbul-59138434a/)
+
 🌐 [Upwork Profile](https://www.upwork.com/freelancers/~0188b71ffed9670e48)
+
 📧 [stanislavserbul386@gmail.com](mailto:stanislavserbul386@gmail.com)  
 
 ---
