@@ -17,10 +17,10 @@ Clean code, smart systems, and fast delivery — that’s my zone 🚀
 ---
 
 ### 🏅 Certifications  
-📜 **[JavaScript (Essentials 1)](#)** — Verified by [Credly](#)  
-📜 **[JavaScript (Essentials 2)](#)** — Verified by [Credly](#)  
-📜 **[Python (Essentials 1)](https://www.credly.com/badges/e8147966-1fce-496f-a151-477a039c30c0)** — Verified by [Credly](https://www.credly.com/badges/e8147966-1fce-496f-a151-477a039c30c0)  
-📜 **[Python (Essentials 2)](https://www.credly.com/badges/c936fc71-4544-488e-880b-ff50abcb3b8e)** — Verified by [Credly](https://www.credly.com/badges/c936fc71-4544-488e-880b-ff50abcb3b8e)  
+📜 **[JavaScript (Essentials 1)](https://www.credly.com/badges/c0480396-2919-485d-b0c5-8c0216068fd3)** — Verified by [Credly](https://www.credly.com/)  
+📜 **[JavaScript (Essentials 2)](https://www.credly.com/badges/47c0ad65-7b9f-4cd0-8a6c-aa4c4249f534)** — Verified by [Credly](https://www.credly.com/)  
+📜 **[Python (Essentials 1)](https://www.credly.com/badges/e8147966-1fce-496f-a151-477a039c30c0)** — Verified by [Credly](https://www.credly.com/)  
+📜 **[Python (Essentials 2)](https://www.credly.com/badges/c936fc71-4544-488e-880b-ff50abcb3b8e)** — Verified by [Credly](https://www.credly.com/)  
 
 ---
 
