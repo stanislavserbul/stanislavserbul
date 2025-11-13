@@ -39,7 +39,7 @@ Looking forward to receiving your concern and requirement!
 ---
 
 ### 📫 Let’s Connect  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> [LinkedIn Profile](https://www.linkedin.com/in/stanislav-serbul-59138434a/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" /> [LinkedIn Profile](https://www.linkedin.com/in/stanislav-serbul-59138434a/)
 
 <img src="https://cdn.simpleicons.org/upwork" width="20" /> [Upwork Profile](https://www.upwork.com/freelancers/~0188b71ffed9670e48)
 
