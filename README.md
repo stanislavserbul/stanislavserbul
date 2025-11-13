@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Stanislav Serbul  
 
-### 💼 Full Stack Web Developer - .Net / React / Angular/ Vue / Node / Python / AI Apps / Automation
+### Full Stack Web Developer - .Net / React / Angular/ Vue / Node / Python / AI Apps / Automation
 
 💡 I design and build **AI-powered platforms**, **automation systems**, and **modern SaaS products** that bridge technology and business goals.  
 Clean code, smart systems, and fast delivery — that’s my zone 🚀  
@@ -17,10 +17,10 @@ Clean code, smart systems, and fast delivery — that’s my zone 🚀
 ---
 
 ### 🏅 Certifications  
-<img src="https://cdn.simpleicons.org/javascript" width="20" /> **[JavaScript (Essentials 1)](https://www.credly.com/badges/c0480396-2919-485d-b0c5-8c0216068fd3)** — Verified by [Credly](https://www.credly.com/)  
-<img src="https://cdn.simpleicons.org/javascript/FF3B30" width="20" /> **[JavaScript (Essentials 2)](https://www.credly.com/badges/47c0ad65-7b9f-4cd0-8a6c-aa4c4249f534)** — Verified by [Credly](https://www.credly.com/)  
-<img src="https://cdn.simpleicons.org/python" width="20" /> **[Python (Essentials 1)](https://www.credly.com/badges/e8147966-1fce-496f-a151-477a039c30c0)** — Verified by [Credly](https://www.credly.com/)  
-<img src="https://cdn.simpleicons.org/python/FF3B30" width="20" /> **[Python (Essentials 2)](https://www.credly.com/badges/c936fc71-4544-488e-880b-ff50abcb3b8e)** — Verified by [Credly](https://www.credly.com/)  
+<img src="https://cdn.simpleicons.org/javascript" width="16" /> **[JavaScript (Essentials 1)](https://www.credly.com/badges/c0480396-2919-485d-b0c5-8c0216068fd3)** — Verified by [Credly](https://www.credly.com/)  
+<img src="https://cdn.simpleicons.org/javascript/FF3B30" width="16" /> **[JavaScript (Essentials 2)](https://www.credly.com/badges/47c0ad65-7b9f-4cd0-8a6c-aa4c4249f534)** — Verified by [Credly](https://www.credly.com/)  
+<img src="https://cdn.simpleicons.org/python" width="16" /> **[Python (Essentials 1)](https://www.credly.com/badges/e8147966-1fce-496f-a151-477a039c30c0)** — Verified by [Credly](https://www.credly.com/)  
+<img src="https://cdn.simpleicons.org/python/FF3B30" width="16" /> **[Python (Essentials 2)](https://www.credly.com/badges/c936fc71-4544-488e-880b-ff50abcb3b8e)** — Verified by [Credly](https://www.credly.com/)  
 
 ---
 
@@ -41,7 +41,7 @@ Looking forward to receiving your concern and requirement!
 ### 📫 Let’s Connect  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" /> [LinkedIn Profile](https://www.linkedin.com/in/stanislav-serbul-59138434a/)
 
-<img src="https://cdn.simpleicons.org/upwork" width="20" /> [Upwork Profile](https://www.upwork.com/freelancers/~0188b71ffed9670e48)
+<img src="https://cdn.simpleicons.org/upwork" width="17" /> [Upwork Profile](https://www.upwork.com/freelancers/~0188b71ffed9670e48)
 
 <img src="https://cdn.simpleicons.org/gmail" width="15" /> [stanislavserbul386@gmail.com](mailto:stanislavserbul386@gmail.com)  
 
